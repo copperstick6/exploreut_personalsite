@@ -1,0 +1,39 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+	<!-- Styling here -->
+	<style>
+	body{
+	background-color:lightblue;
+	}
+	h1{
+	color:black;
+	text-align: center;
+	}
+	h3{
+	color: black;
+	text-align:center;
+	}
+	</style>
+    <meta = charset="utf-8">
+    <meta name="description" content="SAFE docs">
+    <!-- title of page -->
+    <title> Welcome to my UTCS student page! </title>
+      <body>	
+        <h1>Welcome to my UTCS Page!</h1>
+	<h1> I'm William Han!</h1>
+	<h3>UTCS Class of 2020 </h3>
+	<h3><img src="21158040.jpg" alt="Mountain View" style="width:250px;height:200px;"></h3>
+	<h4>Here are my links: </h4>
+	<h4>
+ 	 <ul>
+  	    <li>To <a href=whResume.pdf>my resume</a>.</li>
+  	    <li>To <a href=https://github.com/copperstick6>my github</a>.</li>
+ 	   </ul>
+	</h4>
+      </body>
+  </head>
+
+</html>
+
